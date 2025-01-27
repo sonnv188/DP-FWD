@@ -1,0 +1,10 @@
+instance_name algorithm_name iter_idx best_objective running_time
+DU20-P2-4 local_search 4 2587.415653888005 0.760012
+nb_riders nb_polygons
+2 20
+rider 0 = {2, 5, 0, 1, 14, 11, 15, 12, 3, 19, 4}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+2 1355.9112161888188 1355.9112161888188 25.592460394833903 71.62000275015704 0.0 0.0
+rider 1 = {6, 7, 8, 9, 10, 13, 17, 16, 18}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+13 1231.5044376991864 1231.5044376991864 25.68207824303395 66.94234851327246 0.0 0.0

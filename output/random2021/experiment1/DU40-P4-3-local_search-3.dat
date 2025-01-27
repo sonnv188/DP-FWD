@@ -1,0 +1,16 @@
+instance_name algorithm_name iter_idx best_objective running_time
+DU40-P4-9 local_search 9 3746.043584753027 0.66118
+nb_riders nb_polygons
+4 40
+rider 0 = {3, 11, 14, 16, 22, 28, 29, 30, 36, 38}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+28 892.0080599334101 892.0080599334101 24.99688019069846 65.61143905128483 0.0 0.0
+rider 1 = {6, 21, 24, 25, 26, 31, 34, 37, 39}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+21 779.0785082484242 779.0785082484242 25.156002345899065 67.96146071674667 0.0 0.0
+rider 2 = {7, 8, 9, 10, 15, 19, 20, 23, 32, 35}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+20 978.522984605354 978.522984605354 26.559059755290246 62.16780498106678 0.0 0.0
+rider 3 = {0, 1, 2, 4, 5, 12, 13, 17, 18, 27, 33}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+5 1096.4340319658388 1096.4340319658388 26.85772389766115 64.61425917474206 0.0 0.0

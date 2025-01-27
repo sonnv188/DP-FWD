@@ -1,0 +1,14 @@
+instance_name algorithm_name best_objective running_time
+DU10-P2-1 MILP 1399.8770981931082 0
+nb_riders nb_polygons
+2 10
+x_3_1 = 1.0
+x_3_2 = 1.0
+x_3_3 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_5_0 = 1.0
+x_5_4 = 1.0
+x_5_5 = 1.0
+x_5_6 = 1.0
+x_5_9 = 1.0
