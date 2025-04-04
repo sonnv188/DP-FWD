@@ -1,0 +1,37 @@
+This repo stores instances of a variant of the Districting Problem motivated by a real-world application of an e-commerce smart logistics company in Vietnam.
+Each instance is a connected graph G(V, A) with a set of nodes G distributed in a planar map and a set of edges A. The distance between two nodes is calculated using Euclidean distance.
+For each polygon, the number of customers and the number of orders are estimated based on historical data. Drivers are available to serve customers within these polygons on a daily basis. 
+Each driver is assigned to a set of polygons, forming an operating cluster. These clusters must be connected, compact, and nonoverlapping. The objective is to determine the
+optimal assignment of polygons to drivers, which aims to balance the number of customers, orders, and familiarity levels without violating constraints.
+1. Input:
+The input folder contains 4 types of instances for different experiments. Each instance is named according to the structure: DUn-Pm-i
+where n is the number of nodes (polygons) of the graph, m is the number of clusters to be generated (equivalent to the number of drivers), and i is the instance index.
+Each instance file represents the following inputs:
+*Line 1: number of nodes n = |G|
+*Lines 2--(n+1) (the next n lines): information of each node
+    node_index x_coordinate y_coordinate number_of_customers number_of_orders 0 0
+*Line n+2: number of edges l = |A|
+*Lines (n+3)--(n+3+l): adjacency list
+    from_edge to_edge
+*Line n+4+l:
+    number_drivers number_clusters tolerance1 tolerance2 0.05 0.05
+*Lines n+5+l--n+5+l+l: familiarity matrix, each line (n+5+l+i) shows the familiarity degree of driver i with nodes
+
+2. Output
+An output file is named by input_instance_name + Algorithm(local_search|MILP) + order_of_runing_time.
+In each file, the result values are shown under each description line. For example:
+=========================================================================================================
+description line:            instance_name algorithm_name   iter_idx   best_objective         running_time
+values          :            DU10-P2-0     local_search     0          1396.1909475686136    0.260076
+description line:            nb_riders nb_polygons
+values          :            2 10
+node list assigned to rider: rider 0 = {5, 3, 4, 7, 6}
+description line:            best_rider_2_centroid   best_rider_2_obj   best_rider_2_radius   best_rider_2_act_1   best_rider_2_act_2   best_rider_2_act_3 best_rider_2_area
+values          :            5                       677.3666077014536  677.3666077014536     13.151405793795313   34.46509330556401    0.0                0.0
+node list assigned to rider: rider 1 = {8, 9, 2, 1, 0}
+description line:            best_rider_2_centroid   best_rider_2_obj   best_rider_2_radius   best_rider_2_act_1   best_rider_2_act_2   best_rider_2_act_3 best_rider_2_area
+values          :            8                       718.82433986716    718.82433986716       13.81747073447597    36.72430386534184    0.0                0.0
+==========================================================================================================
+Note: Some files store the objective function value (obj), time (time), iteration number (iter) and violation value (vio) when the improvement is found.
+They are used to visualize the search process of the proposed algorithm.
+  
