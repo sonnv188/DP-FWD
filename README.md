@@ -57,7 +57,7 @@ In each file, the result values are shown under each description line. For examp
 
 =========================================================================================================
 
-description line:            instance_name algorithm_name   iter_idx   best_objective         running_time
+description line:            instance_name algorithm_name    iter_idx   best_objective        running_time
 
 values          :            DU10-P2-0     local_search     0          1396.1909475686136    0.260076
 
