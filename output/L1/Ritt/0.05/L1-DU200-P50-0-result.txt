@@ -1,0 +1,36 @@
+- Finished, results:
+Instance: "L1-DU200-P50-0"
+Replications: 193
+Num. feasible: 0
+Time: 3600.002
+Balance: 60.47 (avg: 62.28, sdev: 0.75, max: 64.24)
+Diameter: 453.76 (avg: 360.47, sdev: 73.78, min: 207.33, max: 524.05), ttb: 396.067, times reached: 1
+P-center: 414.26 (avg: 313.65, sdev: 74.81, min: 147.49, max: 483.54), ttb: 396.067, times reached: 1
+P-median: 7009.91 (avg: 6729.39, sdev: 210.40, min: 5827.46, max: 7045.94), ttb: 396.067, times reached: 1
+Seed: 3731005298
+Execution hash: 679363
+
+- Statistics: 
+num.alt - sum: 0, occ.: 193, avg.: 0, min.: 0, max.: 2.22507e-308
+time.bal - sum: 3212.08, occ.: 193, avg.: 16.6429, min.: 11.0641, max.: 22.378
+bs.steps - sum: 2503, occ.: 193, avg.: 12.9689, min.: 9, max.: 13
+time.cmp - sum: 375.111, occ.: 193, avg.: 1.94358, min.: 1.0479, max.: 5.00576
+time.cns - sum: 12.6492, occ.: 9650, avg.: 0.0013108, min.: 0.00116837, max.: 0.0305198
+
+==============================
+| Timed blocks:              |
+| improve_bal: 3212.08       |
+| bal.shifts: 2205.44        |
+| get_shift_cmp_inc: 823.087 |
+| improve_cmp: 375.111       |
+| bal_cost_shift: 110.295    |
+| dis_bfs: 0.00476084        |
+==============================
+
+summary_line instance=L1-DU200-P50-0 n=200 p=50 obj=pmed t=3600 t_bal=3212.08 t_cmp=375.111 t_cns=12.6492 bal=60.4675 diam=453.763 pcen=414.263 pmed=7009.91 avg_diam=360.468 avg_pcen=313.645 avg_pmed=6729.39 avg_cons_cmp=6729.39 ttb_diam=396.067 ttb_pcen=396.067 ttb_pmed=396.067 count_diam=1 count_pcen=1 count_pmed=1 iter=193 num_feas=0 alt=0 bs_steps=2503 shifts=1855345 swaps=0 pcen_case_1=0 pcen_case_2=0 pcen_case_3=0 seed=3731005298 hash=1613256242093679363 
+
+
+Best solution:
+19 43 18 3 32 38 48 22 28 4 44 11 27 47 5 26 41 37 20 28 34 37 22 30 41 20 8 11 12 35 46 9 17 38 6 15 0 47 17 4 46 24 10 6 14 36 29 7 8 16 9 45 40 30 30 47 27 19 25 26 43 29 35 22 38 14 17 39 3 15 46 32 39 2 1 20 1 14 25 41 48 49 11 8 48 24 18 16 42 18 41 19 34 16 33 21 23 31 0 33 13 36 48 10 24 30 40 32 1 14 28 7 14 12 8 45 31 37 40 45 43 13 20 17 36 7 44 47 24 6 44 25 23 0 42 2 32 4 44 40 28 21 13 29 34 36 36 0 3 5 16 23 6 39 18 49 4 37 12 15 8 44 2 48 9 7 3 4 47 43 10 41 21 31 11 39 9 46 21 35 7 23 25 13 11 26 15 3 5 42 49 29 5 34 35 10 33 15 27 33 
+P-median centers:
+133 76 162 148 156 192 152 111 48 164 170 11 28 121 44 69 49 32 86 0 75 141 7 151 128 78 15 198 19 46 54 116 71 94 20 194 146 17 64 72 139 90 88 120 10 115 30 13 163 155

@@ -1,0 +1,36 @@
+- Finished, results:
+Instance: "L1-DU30-P3-0"
+Replications: 48151
+Num. feasible: 0
+Time: 3600.001
+Balance: 3.12 (avg: 3.19, sdev: 0.08, max: 3.65)
+Diameter: 445.07 (avg: 397.57, sdev: 42.84, min: 356.07, max: 629.73), ttb: 1.397, times reached: 4006
+P-center: 265.00 (avg: 249.79, sdev: 39.80, min: 207.66, max: 358.74), ttb: 1.397, times reached: 4006
+P-median: 3152.12 (avg: 3066.38, sdev: 98.09, min: 2950.28, max: 3725.99), ttb: 1.397, times reached: 4006
+Seed: 3956842368
+Execution hash: 843860
+
+- Statistics: 
+num.alt - sum: 0, occ.: 48151, avg.: 0, min.: 0, max.: 2.22507e-308
+time.bal - sum: 3358.36, occ.: 48151, avg.: 0.0697464, min.: 0.0288175, max.: 3.09463
+bs.steps - sum: 433354, occ.: 48151, avg.: 8.9999, min.: 4, max.: 9
+time.cmp - sum: 234.413, occ.: 48151, avg.: 0.0048683, min.: 0.00434983, max.: 0.0824031
+time.cns - sum: 5.0265, occ.: 144453, avg.: 3.47968e-05, min.: 1.9459e-05, max.: 0.00273292
+
+===========================
+| Timed blocks:           |
+| improve_bal: 3358.35    |
+| bal.shifts: 2796.23     |
+| get_shift_cmp_inc: 1171 |
+| bal_cost_shift: 404.072 |
+| improve_cmp: 234.404    |
+| dis_bfs: 0.105161       |
+===========================
+
+summary_line instance=L1-DU30-P3-0 n=30 p=3 obj=pmed t=3600 t_bal=3358.36 t_cmp=234.413 t_cns=5.0265 bal=3.12202 diam=445.075 pcen=265.003 pmed=3152.12 avg_diam=397.571 avg_pcen=249.786 avg_pmed=3066.38 avg_cons_cmp=3066.38 ttb_diam=1.39672 ttb_pcen=1.39672 ttb_pmed=1.39672 count_diam=4006 count_pcen=4006 count_pmed=4006 iter=48151 num_feas=0 alt=0 bs_steps=433354 shifts=241150213 swaps=0 pcen_case_1=0 pcen_case_2=0 pcen_case_3=0 seed=3956842368 hash=5575286995406843860 
+
+
+Best solution:
+2 0 2 2 1 2 0 1 2 0 1 0 2 0 1 0 2 2 2 1 1 0 0 1 1 2 2 0 0 2 
+P-median centers:
+28 20 16 

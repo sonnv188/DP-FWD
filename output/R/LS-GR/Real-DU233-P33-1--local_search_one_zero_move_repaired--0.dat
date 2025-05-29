@@ -1,0 +1,103 @@
+instance_name algorithm_name iter_idx best_objective violate_value
+Real-DU233-P33-1 -local_search_one_zero_move_repaired- 0 41696963.206370614 41600458.18181816
+nb_riders nb_polygons
+33 233
+rider 0 = {97, 100, 102, 45, 46}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+102 140958.22491411376 0.04309593375386077 1455.0 8895.2 0.0 3 0.0
+rider 1 = {34, 177, 178, 179, 180, 181, 182, 183, 184}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+180 1671322.5952442195 0.7770623990881755 1145.0 6737.2 0.0 7 0.0
+rider 2 = {195, 88, 89, 90, 91}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+90 856649.1954566798 0.10454759217824804 1680.0 9700.8 0.0 5 0.0
+rider 3 = {129, 198, 199}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+198 2136212.757628733 0.030356008260040326 2580.0 10111.5 0.0 0 0.0
+rider 4 = {64, 4, 5, 110, 18, 20, 21, 214, 23, 55, 61, 63}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+4 855621.9214087621 0.10322694053290878 1460.0 7238.899999999999 0.0 9 0.0
+rider 5 = {163, 164, 165, 166, 167, 104, 105, 169, 168, 83, 147}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+104 162321.99972590306 0.18154408249454934 1390.0 8003.7 0.0 12 0.0
+rider 6 = {65, 66, 67, 103, 204, 205, 207, 208, 17, 92, 19, 213, 22, 215, 121, 122, 60, 62}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+204 208822.08172657303 0.2635447524558682 1395.0 7953.7 0.0 15 0.0
+rider 7 = {225, 185, 188}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+188 2629649.1111949687 0.02028588092420958 1565.0 11476.3 0.0 0 0.0
+rider 8 = {217, 187, 76}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+187 1209412.9181413804 0.19086865497253558 1815.0 9947.7 0.0 4 0.0
+rider 9 = {73, 10, 14, 148, 153}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+10 810821.8823374154 0.06415559492511044 1450.0 7291.7 0.0 5 0.0
+rider 10 = {32, 33, 31}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+33 2549812.8562736716 0.12900094825693253 2655.0 10449.599999999999 0.0 1 0.0
+rider 11 = {224, 219, 222, 223}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+223 4119921.859578064 0.041396244341206714 820.0 4612.6 0.0 5 0.0
+rider 12 = {128, 146, 157, 170, 171, 49, 50, 84, 85, 86, 87, 96, 98, 101, 231, 232, 106, 107, 108, 109, 111, 114, 115, 116, 117, 118, 124}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+111 21501.40956941089 1.4095694108906807 1630.0 8022.400000000001 0.0 43 0.0
+rider 13 = {69, 70, 71, 75, 203, 150, 152}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+152 384409.15400320623 0.06309411533047866 1165.0 8016.1 0.0 7 0.0
+rider 14 = {202, 138}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+202 1252312.7389768863 0.01170416101222164 2370.0 9436.1 0.0 3 0.0
+rider 15 = {220, 221}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+220 4041476.383710616 0.020074250023349487 1720.0 3975.5 0.0 3 0.0
+rider 16 = {151, 161, 149, 79}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+151 101558.2293555307 0.04753735216219604 1465.0 8864.8 0.0 5 0.0
+rider 17 = {229}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+229 580212.7272727247 0 2150.0 8984.5 0.0 2 0.0
+rider 18 = {136, 191}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+191 2189812.7359039905 0.008631265318605865 2205.0 10540.1 0.0 0 0.0
+rider 19 = {8, 9}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+8 0.008231660950261035 0.008231660950261035 1565.0 8767.3 0.0 0 0.0
+rider 20 = {48, 51, 154, 155, 156, 158, 159}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+156 1000.105116981223 0.1051169812229951 1685.0 8092.400000000001 0.0 2 0.0
+rider 21 = {226, 228, 135}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+228 217949.1245361827 0.03362709397030646 1680.0 9063.6 0.0 2 0.0
+rider 22 = {0, 1, 2, 3, 6, 7, 11, 24, 25, 26, 27, 28, 29, 52, 68, 216, 93, 94, 95}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+94 1291021.9996612286 0.18147940745621344 1095.0 7167.499999999999 0.0 7 0.0
+rider 23 = {192, 35, 142, 174, 144, 145, 175, 176}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+174 6192821.925215666 0.1070338443322667 855.0 2505.1999999999994 0.0 6 0.0
+rider 24 = {36, 172, 13, 12, 53}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+53 331858.2362998124 0.05448163275847284 1385.0 9017.6 0.0 0 0.0
+rider 25 = {193, 196, 197, 137, 173}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+197 2210912.749474233 0.02220150769039488 2360.0 10406.2 0.0 0 0.0
+rider 26 = {194, 227, 200, 139, 186, 189}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+200 207712.75535368113 0.02808095637613031 1875.0 8887.5 0.0 1 0.0
+rider 27 = {160, 162, 72, 74, 77, 78, 47, 80, 81, 82, 30}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+78 290322.0140180523 0.19583623266165306 1335.0 7927.700000000001 0.0 6 0.0
+rider 28 = {201, 218, 190, 143}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+143 4143912.7772355354 0.04996281198922246 2125.0 12573.199999999999 0.0 2 0.0
+rider 29 = {130, 134, 38, 41, 140}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+140 54909.17464355529 0.08373446441851919 1495.0 8836.5 0.0 8 0.0
+rider 30 = {131, 132, 37, 133, 39, 40, 141, 119, 120, 123, 125, 126, 127}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+141 6000.425567140508 0.42556714050769373 1595.0 8292.4 0.0 12 0.0
+rider 31 = {206, 15, 16, 209, 210, 211, 212, 54, 56, 57, 58, 59}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+54 500321.9400254267 0.12184360707447874 1310.0 7744.200000000001 0.0 9 0.0
+rider 32 = {99, 230, 42, 43, 44, 112, 113}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+99 325409.18856861047 0.0976595195875469 1225.0 8497.900000000001 0.0 9 0.0

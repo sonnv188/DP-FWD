@@ -1,0 +1,13 @@
+instance_name algorithm_name iter_idx best_objective violate_value
+L1-DU30-P3-T0.1 -local_search_repaired- 4 2967.942862155761 0
+nb_riders nb_polygons
+3 30
+rider 0 = {0, 2, 3, 5, 8, 12, 16, 17, 18, 25, 26, 29}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+16 1403.6315350597579 1403.6315350597579 25.327142210506448 61.77537182808091 0.0 0 0.0
+rider 1 = {1, 9, 11, 15, 21, 22, 24, 27, 28}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+28 613.5683387730354 613.5683387730354 28.67832843034864 64.5942612991776 0.0 0 0.0
+rider 2 = {4, 6, 7, 10, 13, 14, 19, 20, 23}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+20 950.7429883229674 950.7429883229674 24.50832164848635 69.72899392881824 0.0 0 0.0

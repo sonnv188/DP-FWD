@@ -1,0 +1,36 @@
+- Finished, results:
+Instance: "L1-DU500-P10-0"
+Replications: 61
+Num. feasible: 0
+Time: 3600.001
+Balance: 10.12 (avg: 10.29, sdev: 0.08, max: 10.44)
+Diameter: 473.60 (avg: 508.35, sdev: 71.18, min: 337.76, max: 668.75), ttb: 2309.500, times reached: 1
+P-center: 237.31 (avg: 324.52, sdev: 67.44, min: 178.33, max: 465.71), ttb: 2309.500, times reached: 1
+P-median: 33313.25 (avg: 33420.54, sdev: 547.89, min: 31560.46, max: 34119.30), ttb: 2309.500, times reached: 1
+Seed: 3708080959
+Execution hash: 942115
+
+- Statistics: 
+num.alt - sum: 0, occ.: 61, avg.: 0, min.: 0, max.: 2.22507e-308
+time.bal - sum: 3385.42, occ.: 61, avg.: 55.4987, min.: 44.8279, max.: 61.4763
+bs.steps - sum: 1034, occ.: 61, avg.: 16.9508, min.: 14, max.: 17
+time.cmp - sum: 209.713, occ.: 61, avg.: 3.43791, min.: 3.24912, max.: 3.80783
+time.cns - sum: 4.83432, occ.: 610, avg.: 0.00792512, min.: 0.00744183, max.: 0.0103655
+
+==============================
+| Timed blocks:              |
+| improve_bal: 3385.42       |
+| bal.shifts: 839.081        |
+| get_shift_cmp_inc: 488.186 |
+| improve_cmp: 209.713       |
+| bal_cost_shift: 68.3766    |
+| dis_bfs: 0.0122764         |
+==============================
+
+summary_line instance=L1-DU500-P10-0 n=500 p=10 obj=pmed t=3600 t_bal=3385.42 t_cmp=209.713 t_cns=4.83432 bal=10.1172 diam=473.601 pcen=237.313 pmed=33313.3 avg_diam=508.346 avg_pcen=324.519 avg_pmed=33420.5 avg_cons_cmp=33420.5 ttb_diam=2309.5 ttb_pcen=2309.5 ttb_pmed=2309.5 count_diam=1 count_pcen=1 count_pmed=1 iter=61 num_feas=0 alt=0 bs_steps=1034 shifts=564310 swaps=0 pcen_case_1=0 pcen_case_2=0 pcen_case_3=0 seed=3708080959 hash=3255993041683942115 
+
+
+Best solution:
+5 0 9 1 6 2 7 4 5 1 9 8 7 3 5 2 5 2 8 9 5 4 5 4 2 3 6 9 4 8 2 1 1 4 1 7 8 9 3 7 8 9 0 7 2 8 0 0 7 0 9 3 9 5 1 4 6 0 9 5 8 1 7 5 4 0 9 3 0 1 3 3 2 6 8 2 2 0 9 1 4 9 1 3 0 0 1 9 2 6 3 0 7 7 5 9 1 3 3 2 2 2 1 6 2 2 6 4 8 8 4 8 2 1 6 5 8 8 3 2 9 1 8 2 0 5 9 1 8 4 1 9 8 6 8 7 2 9 6 3 5 6 5 7 2 1 0 5 7 3 7 6 0 1 8 0 6 4 5 0 6 6 7 2 0 2 4 2 4 3 6 4 8 9 1 4 4 9 1 5 0 9 1 8 1 3 6 0 0 2 1 6 9 2 3 3 0 8 4 4 3 5 8 3 4 7 6 1 1 3 9 4 3 8 2 3 3 3 4 1 0 3 9 5 4 7 6 1 9 6 5 6 5 9 2 8 7 4 7 6 7 6 2 7 4 9 3 0 9 7 7 6 4 8 4 8 7 0 1 2 4 8 4 7 5 4 9 1 7 5 3 6 4 7 7 8 3 6 4 8 4 9 8 5 7 3 2 0 6 0 7 3 6 4 1 7 0 6 9 6 3 3 7 3 9 0 1 5 9 6 2 8 1 4 9 5 2 3 1 5 8 1 9 9 8 8 3 3 2 4 0 5 0 5 6 8 2 7 4 5 3 9 9 7 3 7 5 9 7 7 1 9 4 0 6 7 8 7 5 0 2 8 1 8 2 5 2 8 5 1 6 3 6 6 9 2 4 6 6 2 4 9 6 4 5 4 3 7 0 1 9 9 0 3 1 5 5 7 0 4 8 8 3 5 3 2 9 1 6 7 8 2 2 6 6 5 2 5 6 3 5 0 3 2 2 5 9 1 2 2 3 8 6 7 7 8 1 6 4 8 1 0 3 1 3 7 8 2 9 3 6 2 6 8 0 7 3 0 5 5 3 6 9 4 1 0 6 5 2 7 5 0 9 3 0 8 0 7 0 8 5 6 7 9 7 3 0 7 6 8 1 4 5 8 6 0 5 6 7 9 
+P-median centers:
+421 121 336 456 168 403 373 268 40 341 

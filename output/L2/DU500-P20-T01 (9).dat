@@ -1,0 +1,64 @@
+instance_name algorithm_name iter_idx best_objective violate_value violate_farm
+DU500-P20-T0.1 -local_search_repaired- 7 429409.7155778628 0 357000
+nb_riders nb_polygons
+20 500
+rider 0 = {259, 138, 396, 406, 283, 156, 285, 29, 413, 32, 41, 309, 323, 325, 327, 332, 462, 212, 227, 485, 243, 254}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+156 19668.66650590778 2668.6665059077786 60.930814828460356 140.7876479296972 0.0 34 0.0
+rider 1 = {130, 392, 11, 398, 143, 403, 21, 281, 286, 160, 417, 290, 169, 181, 441, 448, 473, 223, 97, 364, 498, 245, 375, 378}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+281 21768.422525676448 3768.4225256764466 59.98325643376568 143.22038760814718 0.0 36 0.0
+rider 2 = {139, 272, 17, 401, 30, 414, 288, 55, 442, 315, 64, 209, 339, 471, 87, 216, 98, 355, 103, 115, 246, 376, 122}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+471 19059.482063947304 3059.482063947303 59.90926594025113 146.48078185719766 0.0 32 0.0
+rider 3 = {0, 128, 133, 6, 19, 276, 407, 409, 25, 163, 293, 421, 303, 48, 180, 443, 446, 66, 324, 330, 344, 474, 482, 99, 357, 101, 487}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+421 21960.394049919603 3960.394049919605 70.81888968728592 168.20519510564054 0.0 36 0.0
+rider 4 = {134, 394, 277, 278, 424, 425, 53, 438, 440, 188, 455, 74, 75, 77, 335, 486, 360, 233, 236, 110, 117, 119, 382}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+486 19632.22083351484 3132.220833514837 60.87563415598761 153.8868044113731 0.0 33 0.0
+rider 5 = {386, 258, 132, 260, 131, 14, 274, 408, 183, 58, 199, 72, 201, 204, 334, 337, 210, 467, 91, 225, 237, 239, 126}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+408 20210.486951922492 3210.486951922493 65.65004053606405 143.03081788646938 0.0 34 0.0
+rider 6 = {391, 8, 270, 402, 18, 305, 178, 445, 322, 68, 71, 73, 202, 203, 461, 479, 100, 228, 484, 488, 105, 490, 369, 242, 247}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+8 20674.566457502395 2674.5664575023943 64.27907592041237 170.09089291215784 0.0 36 0.0
+rider 7 = {13, 149, 24, 153, 33, 44, 182, 60, 61, 69, 457, 336, 464, 215, 221, 478, 224, 481, 226, 483, 229, 104, 107, 492, 365, 368, 372, 250}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+182 21727.948694646966 3727.948694646967 70.98200707998653 157.77590906123197 0.0 36 0.0
+rider 8 = {3, 389, 397, 22, 23, 410, 28, 45, 52, 57, 191, 320, 326, 463, 466, 88, 218, 347, 480, 230, 102, 362, 235, 366, 373}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+52 18796.878352009204 2796.878352009202 68.00474177119838 168.79968959260023 0.0 32 0.0
+rider 9 = {129, 12, 271, 146, 147, 150, 412, 159, 161, 35, 434, 310, 447, 192, 321, 450, 206, 208, 82, 345, 346, 220, 497}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+129 20431.00370095088 3431.00370095088 66.71705645087587 150.12781324757296 0.0 34 0.0
+rider 10 = {257, 136, 140, 405, 299, 429, 430, 47, 176, 174, 173, 184, 189, 62, 190, 453, 459, 465, 341, 343, 472, 493, 255}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+184 21130.963091027243 2630.963091027244 61.2750128352278 156.36276936212707 0.0 37 0.0
+rider 11 = {1, 5, 262, 399, 145, 280, 26, 284, 31, 162, 39, 40, 172, 175, 307, 312, 185, 316, 317, 444, 200, 76, 205, 78, 470, 214, 89, 92, 94, 353, 354, 249}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+162 26512.493156828594 5512.493156828593 70.55338158636742 169.01673051127923 0.0 42 0.0
+rider 12 = {261, 135, 9, 267, 400, 151, 152, 27, 155, 418, 34, 292, 36, 422, 43, 308, 313, 198, 456, 79, 213, 475, 348, 222, 232, 111, 496, 240, 248, 123}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+267 24493.14328700733 3993.143287007329 69.07622955965255 161.5332010296106 0.0 41 0.0
+rider 13 = {154, 282, 411, 415, 419, 291, 426, 194, 451, 452, 67, 454, 328, 458, 331, 469, 350, 108, 109, 494, 112, 121, 253, 383}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+454 23370.92488417515 3870.924884175152 66.68261593469055 140.32846721826195 0.0 39 0.0
+rider 14 = {384, 142, 404, 148, 20, 301, 46, 51, 59, 65, 197, 70, 211, 86, 349, 477, 234, 370, 116, 244, 120, 377, 251, 127}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+51 18351.5884688914 3851.5884688914007 64.27842261622045 164.36003390644834 0.0 29 0.0
+rider 15 = {2, 7, 395, 141, 157, 164, 37, 168, 297, 302, 431, 187, 196, 81, 83, 340, 468, 85, 95, 238, 495, 118, 379, 381}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+157 18685.044651046297 3685.044651046298 66.6725472545962 157.53223134528366 0.0 30 0.0
+rider 16 = {263, 279, 158, 416, 294, 423, 167, 171, 428, 304, 177, 435, 56, 186, 63, 90, 352, 491, 371, 380}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+423 18145.847972309635 2645.847972309635 60.06607269235148 144.25976108957852 0.0 31 0.0
+rider 17 = {256, 385, 266, 269, 15, 144, 273, 298, 432, 433, 50, 49, 333, 80, 342, 219, 93, 96, 359, 489, 363, 241, 499, 374, 124}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+269 24235.49356466048 5235.493564660478 68.97001199250246 156.3557216928502 0.0 38 0.0
+rider 18 = {387, 4, 264, 393, 137, 265, 268, 16, 275, 289, 420, 295, 42, 427, 179, 436, 437, 439, 314, 449, 193, 338, 84, 217, 351, 106, 113, 114, 125}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+264 26383.252382996598 4883.2523829965985 69.47518130688495 163.0945155067873 0.0 43 0.0
+rider 19 = {388, 390, 10, 287, 165, 38, 166, 296, 170, 300, 306, 54, 311, 318, 319, 195, 329, 460, 207, 476, 356, 358, 231, 361, 367, 252}
+best_rider_2_centroid best_rider_2_obj best_rider_2_radius best_rider_2_act_1 best_rider_2_act_2 best_rider_2_act_3 best_rider_2_area
+388 24170.89398292222 3670.8939829222218 68.55157657566419 153.79697971745597 0.0 41 0.0

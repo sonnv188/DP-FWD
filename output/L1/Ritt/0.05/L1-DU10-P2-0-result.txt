@@ -1,0 +1,36 @@
+- Finished, results:
+Instance: "L1-DU10-P2-0"
+Replications: 635353
+Num. feasible: 0
+Time: 3600.014
+Balance: 2.17 (avg: 2.46, sdev: 0.04, max: 2.64)
+Diameter: 522.65 (avg: 465.85, sdev: 15.00, min: 460.26, max: 522.65), ttb: 0.008, times reached: 3991
+P-center: 313.31 (avg: 323.63, sdev: 6.40, min: 306.23, max: 326.01), ttb: 0.008, times reached: 3991
+P-median: 1713.93 (avg: 1567.77, sdev: 34.58, min: 1554.94, max: 1779.27), ttb: 0.008, times reached: 3991
+Seed: 1469490632
+Execution hash: 730639
+
+- Statistics: 
+num.alt - sum: 0, occ.: 635353, avg.: 0, min.: 0, max.: 2.22507e-308
+time.bal - sum: 3110.57, occ.: 635353, avg.: 0.00489581, min.: 0.00352767, max.: 0.332328
+bs.steps - sum: 2.54547e+06, occ.: 635353, avg.: 4.00639, min.: 4, max.: 5
+time.cmp - sum: 460.83, occ.: 635353, avg.: 0.000725313, min.: 0.000623, max.: 0.0823724
+time.cns - sum: 7.95389, occ.: 1270706, avg.: 6.25943e-06, min.: 2.458e-06, max.: 0.0298482
+
+==============================
+| Timed blocks:              |
+| improve_bal: 3110.49       |
+| bal.shifts: 2287.87        |
+| get_shift_cmp_inc: 699.442 |
+| bal_cost_shift: 485.645    |
+| improve_cmp: 460.73        |
+| dis_bfs: 0.232149          |
+==============================
+
+summary_line instance=L1-DU10-P2-0 n=10 p=2 obj=pmed t=3600.03 t_bal=3110.57 t_cmp=460.83 t_cns=7.95389 bal=2.17456 diam=522.653 pcen=313.307 pmed=1713.93 avg_diam=465.853 avg_pcen=323.628 avg_pmed=1567.77 avg_cons_cmp=1567.77 ttb_diam=0.00766633 ttb_pcen=0.00766683 ttb_pmed=0.00766808 count_diam=3991 count_pcen=3991 count_pmed=3991 iter=635353 num_feas=0 alt=0 bs_steps=2.54547e+06 shifts=1593370777 swaps=0 pcen_case_1=0 pcen_case_2=0 pcen_case_3=0 seed=1469490632 hash=5007179541547730639 
+
+
+Best solution:
+0 1 0 1 0 1 1 0 1 0 
+P-median centers:
+4 8 

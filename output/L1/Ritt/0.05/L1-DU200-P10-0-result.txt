@@ -1,0 +1,36 @@
+- Finished, results:
+Instance: "L1-DU200-P10-0"
+Replications: 504
+Num. feasible: 0
+Time: 3600.001
+Balance: 10.34 (avg: 10.84, sdev: 0.15, max: 11.30)
+Diameter: 318.28 (avg: 441.09, sdev: 80.34, min: 261.83, max: 633.31), ttb: 1724.136, times reached: 5
+P-center: 195.34 (avg: 287.33, sdev: 69.18, min: 149.44, max: 466.21), ttb: 1724.136, times reached: 6
+P-median: 12601.84 (avg: 12651.14, sdev: 206.78, min: 11807.34, max: 13030.99), ttb: 1724.136, times reached: 1
+Seed: 880914489
+Execution hash: 322900
+
+- Statistics: 
+num.alt - sum: 0, occ.: 504, avg.: 0, min.: 0, max.: 2.22507e-308
+time.bal - sum: 3381.75, occ.: 504, avg.: 6.70982, min.: 1.99249, max.: 9.18456
+bs.steps - sum: 6543, occ.: 504, avg.: 12.9821, min.: 4, max.: 13
+time.cmp - sum: 213.167, occ.: 504, avg.: 0.422951, min.: 0.391618, max.: 0.667394
+time.cns - sum: 4.94482, occ.: 5040, avg.: 0.000981115, min.: 0.000831042, max.: 0.0361861
+
+=============================
+| Timed blocks:             |
+| improve_bal: 3381.75      |
+| bal.shifts: 1695.45       |
+| get_shift_cmp_inc: 834.76 |
+| improve_cmp: 213.167      |
+| bal_cost_shift: 178.882   |
+| dis_bfs: 0.0177625        |
+=============================
+
+summary_line instance=L1-DU200-P10-0 n=200 p=10 obj=pmed t=3600 t_bal=3381.75 t_cmp=213.167 t_cns=4.94482 bal=10.3392 diam=318.275 pcen=195.345 pmed=12601.8 avg_diam=441.085 avg_pcen=287.329 avg_pmed=12651.1 avg_cons_cmp=12651.1 ttb_diam=1724.14 ttb_pcen=1724.14 ttb_pmed=1724.14 count_diam=5 count_pcen=6 count_pmed=1 iter=504 num_feas=0 alt=0 bs_steps=6543 shifts=3679054 swaps=0 pcen_case_1=0 pcen_case_2=0 pcen_case_3=0 seed=880914489 hash=1020434359917322900 
+
+
+Best solution:
+1 2 7 8 3 5 8 8 5 2 7 0 9 3 8 5 3 0 2 3 6 2 3 1 2 2 1 6 4 3 7 1 8 6 5 2 1 3 0 5 9 3 8 1 9 4 8 2 4 1 1 4 0 7 7 6 5 6 6 0 4 6 7 3 6 9 9 2 8 6 1 7 2 5 7 5 7 1 6 1 9 4 8 6 8 8 6 2 9 3 4 5 7 0 6 3 4 0 2 7 6 2 4 2 5 0 0 4 5 3 6 0 2 4 4 8 3 4 0 3 2 9 9 1 3 3 4 6 8 5 1 6 7 9 1 7 2 1 7 5 3 8 5 6 5 2 8 8 8 0 1 9 9 9 0 3 1 5 9 0 8 4 7 8 0 3 9 4 1 3 0 4 0 0 5 6 7 3 0 4 5 3 6 7 7 2 8 4 1 4 6 0 5 9 6 2 6 7 9 5 
+P-median centers:
+59 134 112 4 96 180 83 74 68 66 
